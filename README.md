@@ -15,7 +15,8 @@ Battery management systems (BMS) play a crucial role in ensuring the efficient a
 
 ## Data
 
-The dataset used in this project is the NASA Battery Dataset, which contains data on the charging and discharging cycles of batteries. The dataset includes various parameters such as voltage, current, and temperature.
+The dataset used in this project is the NASA Battery Dataset, which contains data on the charging and discharging cycles of batteries. The dataset includes various parameters such as voltage, current, and temperature. You can download the dataset from [this link](https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset/data).
+
 
 ## Feature Engineering
 
