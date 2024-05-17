@@ -8,7 +8,6 @@ This repository contains code for optimizing battery management systems using va
 - [Feature Engineering](#feature-engineering)
 - [Models](#models)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
@@ -39,27 +38,4 @@ Each model's performance is evaluated using Mean Absolute Error (MAE) and R-squa
 
 The performance of each model is compared using bar charts for MAE and R2 scores. Feature importance is also analyzed for the best-performing model (XGBoost).
 ![Model Comparison](https://github.com/KavilaViswanathan/Optimizing-Battery-Management-System-Using-AI/assets/140960627/3de97250-1e58-4f5e-8e97-a0bd7ecf9dbe)
-
-## license
-MIT License
-
-Copyright (c) 2024 KavilaViswanathan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
